@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/DataScene.unity
+    guid: ccc6590ef2638044b95fb604a8010e47
+  - enabled: 1
+    path: Assets/Scenes/UIScene.unity
+    guid: 3cf21d808989fcd4cb22f6a03d299208
+  - enabled: 1
+    path: Assets/Scenes/GameEndless/TestEndless.unity
+    guid: b7f216d0454ae624cb8ef59a7ce2da5a
+  - enabled: 1
+    path: Assets/Scenes/GameWar/WarTest.unity
+    guid: 46d5649a85fc38845a1c9a8bfd119043
   m_configObjects: {}
